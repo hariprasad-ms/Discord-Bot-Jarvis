@@ -3,5 +3,5 @@ A Python based discord bot called JARVIS. J is developed from scratch with capab
 
 You do not need to install anything on your computer, and you do not need to pay anything to host your bot. 
 
-     Talk is cheap.
+Talk is cheap.
 I will show you the code.
