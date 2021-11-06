@@ -146,4 +146,4 @@ async def thanxbuddy(ctx):
       await ctx.send(f'Yes!, {random.choice(jresponse)}')
       
 
-client.run(os.environ['JARVIS_TOKEN'])      
+client.run(os.environ['JARVIS_TOKEN'])     
